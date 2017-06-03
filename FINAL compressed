@@ -1,0 +1,495 @@
+<!DOCTYPE HTML>
+<html> 
+ <!-- <script type="text/javascript" src="/code_examples/passtest.js"></script> lol nope what is this
+ 
+ hi guys so i had a macro so lol so i just changed the numbers haha have fun with dupes-->
+
+ 
+ <!-- hi guys. if you're in inspect element, tell a staff member the secret code "CHICKEN" for a special surprise :)
+
+	A E S T H E T I C-->	
+<!--REMEMBER TO CHANGE BACK PLACEHOLDER VALUES
+
+1,3,5,6,8++
+basically just check over everything anyway cuz idek which ones i placeholded anymore
+JOKES most of these are placeholder answers-->
+<style>
+body { 
+    background: #000000;
+	color: white;
+}
+* {
+ font-size: 100%;
+ font-family: Courier New;
+ }
+ 
+
+</style>
+<head>
+
+
+</head>
+<body onload="stealth()">
+Press SPACE to begin.
+<div id= "l1">Entering CSSMA servers...</div>
+<div id= "l2">Retrieving files...</div>
+<div id= "l3">Decrypting...</div>
+<div id= "l4">Initializing...</div>
+<div id= "l5">Ready. For security purposes disable your calculators and other electronic devices. Communications between the current device and the server have been encrypted with TLS-01 protocol.</div>
+
+<br>
+
+<div id= "tag1">
+<span> Q1: The sacred golden pie has been stolen. Your team’s mission is to find the thief. 
+Type “we accept” to start your mission. 
+
+    <form>
+    
+		<div>
+            <label for="answer1">Answer:</label>
+            <input type="value" name="answer1" id="answer1" onkeyup="checkPass1(); return false;"><br>
+            <span id="confirmMessage1" class="confirmMessage1"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+
+<br>
+
+<div id= "tag2">
+<span> Q2: Aol khal lewylzzlk pu tkk mvyt aptlz aol ubtily vm zahmm tltilyz wylzlua
+    <form>
+      
+		<div>
+            <label for="answer2">Answer:</label>
+            <input type="value" name="answer2" id="answer2" onkeyup="checkPass2(); return false;"><br>
+            <span id="confirmMessage2" class="confirmMessage2"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag3">
+<span> Q3: The thief went golfing beforehand and left this clue: Titleist x Callaway x Taylormade
+    <form>
+      
+		<div>
+            <label for="answer3">Answer:</label>
+            <input type="value" name="answer3" id="answer3" onkeyup="checkPass3(); return false;"><br>
+            <span id="confirmMessage3" class="confirmMessage3"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag4">
+<span> Q4: You have three bags, each containing two golf balls. 
+		Bag 1 contains two white golf balls, Bag 2 contains two yellow golf balls, 
+		and Bag 3 contains one white ball and one yellow ball. 
+		You pick a random bag and take out one ball. It is a white. 
+		What is the probability that the remaining golf ball from the same bag is also white?
+    <form>
+      
+		<div>
+            <label for="answer4">Answer:</label>
+            <input type="value" name="answer4" id="answer4" onkeyup="checkPass4(); return false;"><br>
+            <span id="confirmMessage4" class="confirmMessage4"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag5">
+<span> Q5: Find a staff member, tell them the code .--.  ..  . (in letters) They will give you a question.
+    <form>
+      
+		<div>
+            <label for="answer5">Answer:</label>
+            <input type="value" name="answer5" id="answer5" onkeyup="checkPass5(); return false;"><br>
+            <span id="confirmMessage5" class="confirmMessage5"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag6">
+<span> Q6: The thief also stole some bottles of aloe vera drinks and chocolate chip cookies 
+from the Burnett vending machine. If the total loss from goods that should have been sold was $65.75, 
+and the total number of items stolen is less than 25, how many bottles of aloe vera drinks 
+and how many chocolate chip cookies were stolen each? Answer in #aloe vera,#chocolate chip cookies format (eg 10,6)
+
+    <form>
+      
+		<div>
+            <label for="answer6">Answer:</label>
+            <input type="value" name="answer6" id="answer6" onkeyup="checkPass6(); return false;"><br>
+            <span id="confirmMessage6" class="confirmMessage6"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag7">
+<span> Q7: Find a staff member say the code “-.--  ---  .-.  --  ..-  .-..  .-” (in letters), 
+then show them the how many pieces of pie you can cut if you make n slices formula. 
+Enter the password they give you.
+    <form>
+      
+		<div>
+            <label for="answer7">Answer:</label>
+            <input type="value" name="answer7" id="answer7" onkeyup="checkPass7(); return false;"><br>
+            <span id="confirmMessage7" class="confirmMessage7"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag8">
+<span> Q8: ..-.  ..  -.  -../.-  -.  …  ---  -./.-..  .  ..-  -.  --./.  -.  -  .  .-./….  ..  .../
+-.-.  ---  ---  .-.  -..  ..  -.  .-  -  .  …/.-  -.  …  .--  .  .-./..  -./-..-/-.-.  ---  --  --  .-/
+-.--/..-.  ---  .-.  --  .-  -
+    <form>
+      
+		<div>
+            <label for="answer8">Answer:</label>
+            <input type="value" name="answer8" id="answer8" onkeyup="checkPass8(); return false;"><br>
+            <span id="confirmMessage8" class="confirmMessage8"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag9">
+<span> Q9: Anson Leung claims to have seen someone suspicious running away with a sparkling pie. 
+The thief wanted to run away from Anson Leung as fast as possible. 
+If the thief was spotted again by Irene Tang five blocks south and six blocks east 
+from where the thief was first spotted and the thief only ran south or east at the intersection of each block, 
+how many paths could the thief have taken to get from Anson Leung to Irene Tang?
+***If you give staff coordinates of Irene Tang you will receive a diagram of the street pathways.
+Tell them “Irene Tang, (x,y)”
+
+    <form>
+      
+		<div>
+            <label for="answer9">Answer:</label>
+            <input type="value" name="answer9" id="answer9" onkeyup="checkPass9(); return false;"><br>
+            <span id="confirmMessage9" class="confirmMessage9"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag10">
+<span> Q10: Your team finds a note on one of these possible paths. 
+It reads “security file, #628, Bank of Burnett. 
+(-...  .-  -.  -.-/---  ..-./-...  ..-  .-.  -.  .  -  -/..  …  -.-.  .-  -  .  -../..-  .--./….  ..  --.  ….) 
+You go to a staff member at the Bank and tell them this number 
+and that you are looking for a security file. 
+Follow the staff's instructions and enter the final answer here. 
+    <form>
+      
+		<div>
+            <label for="answer10">Answer:</label>
+            <input type="value" name="answer10" id="answer10" onkeyup="checkPass10(); return false;"><br>
+            <span id="confirmMessage10" class="confirmMessage10"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag11">
+<span> Q11: WWhat is the slope between Gary Li and Roy Wu?
+    <form>
+      
+		<div>
+            <label for="answer11">Answer:</label>
+            <input type="value" name="answer11" id="answer11" onkeyup="checkPass11(); return false;"><br>
+            <span id="confirmMessage11" class="confirmMessage11"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag12">
+<span> Q12: Sean Rong, a random person, gets hungry and stands in your way 
+(he is very tall so you cannot get past him) He wants to buy 5 Veggie Chips (healthy option!!) 
+from the vending machine and has 10100 nickels, 1010 quarters, 1000 loonies, and 100 toonies. 
+He insists on finding exact change and demands to know how many different ways he can pay for the Veggie Chips. 
+(He is really just Gandalf in disguise). 
+***All the numbers are in binary so you must first change them to decimal notation. 
+Also, please express the final # of ways in binary. 
+<br>
+ALTERNATIVE: Find Sean Rong, show him 5 bags of Veggie Chips, and tell him to calculate it himself. 
+He will say something very angry. Enter what he says here.
+    <form>
+      
+		<div>
+            <label for="answer12">Answer:</label>
+            <input type="value" name="answer12" id="answer12" onkeyup="checkPass12(); return false;"><br>
+            <span id="confirmMessage12" class="confirmMessage12"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag13">
+<span> Q13: Nvt rz gjqz hvoc qzmt gjpygt viy novaa hzhwzmn rdgg xjhz oj bdqz tjp nkzxdvg xjyz oj ziozm.
+    <form>
+      
+		<div>
+            <label for="answer13">Answer:</label>
+            <input type="value" name="answer13" id="answer13" onkeyup="checkPass13(); return false;"><br>
+            <span id="confirmMessage13" class="confirmMessage13"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag14">
+<span> Q14: The pie was stolen at exactly 3:14 pm. However, people didn’t realize it. 
+When people finally realized the pie was stolen, the angle between the minute hand and hour hand was 90.5 degrees. 
+If they realize the pie was stolen between half an hour and one hour of the actual robbery, 
+when did they realize the pie was stolen?
+    <form>
+      
+		<div>
+            <label for="answer14">Answer:</label>
+            <input type="value" name="answer14" id="answer14" onkeyup="checkPass14(); return false;"><br>
+            <span id="confirmMessage14" class="confirmMessage14"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag15">
+<span> Q15: At 3:01 pm, the Burnett auditorium was full. After 30 seconds, 1 person leaves. 
+If 1 person leaves every 14 seconds afterwards, and people leave one second faster after each minute, 
+(The time interval between two people leaving in successive minutes is the leaving frequency of the later minute) 
+how many people were left in the auditorium when the pie was stolen? 
+Tell the answer to a staff member and they will give you a code. 
+    <form>
+      
+		<div>
+            <label for="answer15">Answer:</label>
+            <input type="value" name="answer15" id="answer15" onkeyup="checkPass15(); return false;"><br>
+            <span id="confirmMessage15" class="confirmMessage15"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag16">
+<span> Q16: Around that time, a shipment to the caf arrived in the form of a box consisting of Lay’s and japadogs, 
+the box shows 36% (rounded to the nearest percent)of the total retail potential consists of Lay’s and the rest is japadog. 
+You must figure out the content amounts before the cafeteria staff will let you open the box. 
+If the retail price of a Lay’s Original is $1.25 and Japadog is $5.55, 
+what is the least amount of each type food in the box? Answer in #Lay's,#japadog
+    <form>
+      
+		<div>
+            <label for="answer16">Answer:</label>
+            <input type="value" name="answer16" id="answer16" onkeyup="checkPass16(); return false;"><br>
+            <span id="confirmMessage16" class="confirmMessage16"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag17">
+<span> Q17: You open the box. In it, you find a note. 
+“Haha...I’m so good. The safe had a 1% probability of being broken into successfully, 
+and a 96% probability that the alarm will sound if I try to open it. But somehow I got away.” 
+Wow, the thief was good. What was the probability of the thief opening the safe successfully 
+without triggering the alarm?
+    <form>
+      
+		<div>
+            <label for="answer17">Answer:</label>
+            <input type="value" name="answer17" id="answer17" onkeyup="checkPass17(); return false;"><br>
+            <span id="confirmMessage17" class="confirmMessage17"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag18">
+<span> Q18:You learn that the thief also stole crewnecks and hoodies from the Marketing store. 
+The profit margin is 37% of the base price (price the Marketing class acquired it at), 
+so if the thief stole 7 crewnecks and 4 hoodies, how much money did the store lose rounded to the nearest cent? 
+Answer in $xxx.xx
+    <form>
+      
+		<div>
+            <label for="answer18">Answer:</label>
+            <input type="value" name="answer18" id="answer18" onkeyup="checkPass18(); return false;"><br>
+            <span id="confirmMessage18" class="confirmMessage18"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag19">
+<span> Q19: After helping the Marketing class figure out how much profit they lost, 
+the students were furious, but thanked you for your help. 
+You became very thirsty after all that gruesome work and went to drink water at the water fountain. 
+However, there was a loose wire that was frayed and you got shocked. 
+Assume the water fountain is a simple circuit. In a simple circuit, V=IR, where V is voltage, 
+I is current, and R is resistance. You must tell staff members the current of the water fountain circuit system 
+so someone can come fix it and other people won’t get hurt. 
+Who knows...maybe the thief did it? The staff will give you a comforting word. 
+    <form>
+      
+		<div>
+            <label for="answer19">Answer:</label>
+            <input type="value" name="answer19" id="answer19" onkeyup="checkPass19(); return false;"><br>
+            <span id="confirmMessage19" class="confirmMessage19"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag20">
+<span> Q20: You have two good friends who are on the honour roll--Linda Zhao and Brendan Chen. 
+By coding their student numbers into binary, you might receive some useful clues. 
+Express the answer in Linda#,Brendan# form. 
+    <form>
+      
+		<div>
+            <label for="answer20">Answer:</label>
+            <input type="value" name="answer20" id="answer20" onkeyup="checkPass20(); return false;"><br>
+            <span id="confirmMessage20" class="confirmMessage20"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag21">
+<span> Q21: Your two friends are amazed at your encoding skills and when you tell them you are trying to 
+solve a theft case, they tell you they saw someone run out of the door earlier in a haste and dropped their phone. 
+They give it to you. It is locked. The thief uses the Android line-connecting pattern lock 
+(9 dots in 3 x 3 form, you trace a line to connect the dots. Each dot can only be connected once, 
+but not all the dots need to be connected in the line pattern. So when you reach a dot as you trace your line, 
+it can be connected to any other dot given that dot has not been previously connected.) 
+What is the total number of possible combinations? (+/- 100000 answer accepted)
+    <form>
+      
+		<div>
+            <label for="answer21">Answer:</label>
+            <input type="value" name="answer21" id="answer21" onkeyup="checkPass21(); return false;"><br>
+            <span id="confirmMessage21" class="confirmMessage21"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag22">
+<span> Q22: Surprisingly you get it right on the first try! 
+In the calendar, you find the reminder “steal pie” so…  
+The song on the phone is on pause: Sam Smith’s Writing’s On The Wall. Find the number: PIE
+    <form>
+      
+		<div>
+            <label for="answer22">Answer:</label>
+            <input type="value" name="answer22" id="answer22" onkeyup="checkPass22(); return false;"><br>
+            <span id="confirmMessage22" class="confirmMessage22"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+<br>
+
+<div id= "tag23">
+<span> Q23: Change number from binary into decimal notation. 
+Suspect identification: Adam-40, Andrew-41, Angela-42, Ewan-43, Horman-44, Jason-45, Joseph-46, 
+Kate-47, Sean-48, Yean-49, enter the name of the thief.
+    <form>
+      
+		<div>
+            <label for="answer23">Answer:</label>
+            <input type="value" name="answer23" id="answer23" onkeyup="checkPass23(); return false;"><br>
+            <span id="confirmMessage23" class="confirmMessage23"></span>
+        </div>
+        
+    </form>
+</span>
+</div>
+
+
+<!-- JS stuff is down here bro -->
+
+<script>
+<!--nice try, you can't read this XD -->
+
+var _0x4320=["\x6B\x65\x79\x64\x6F\x77\x6E","\x6B\x65\x79\x49\x64\x65\x6E\x74\x69\x66\x69\x65\x72","\x55\x2B\x30\x30\x30\x41","\x45\x6E\x74\x65\x72","\x6B\x65\x79\x43\x6F\x64\x65","\x6E\x6F\x64\x65\x4E\x61\x6D\x65","\x74\x61\x72\x67\x65\x74","\x49\x4E\x50\x55\x54","\x74\x79\x70\x65","\x74\x65\x78\x74","\x70\x72\x65\x76\x65\x6E\x74\x44\x65\x66\x61\x75\x6C\x74","\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72","\x6F\x6E\x6B\x65\x79\x75\x70","\x62\x6F\x64\x79","\x74\x61\x67\x31","\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64","\x74\x61\x67\x32","\x74\x61\x67\x33","\x74\x61\x67\x34","\x74\x61\x67\x35","\x74\x61\x67\x36","\x74\x61\x67\x37","\x74\x61\x67\x38","\x74\x61\x67\x39","\x74\x61\x67\x31\x30","\x74\x61\x67\x31\x31","\x74\x61\x67\x31\x32","\x74\x61\x67\x31\x33","\x74\x61\x67\x31\x34","\x74\x61\x67\x31\x35","\x74\x61\x67\x31\x36","\x74\x61\x67\x31\x37","\x74\x61\x67\x31\x38","\x74\x61\x67\x31\x39","\x74\x61\x67\x32\x30","\x74\x61\x67\x32\x31","\x74\x61\x67\x32\x32","\x74\x61\x67\x32\x33","\x6C\x31","\x6C\x32","\x6C\x33","\x6C\x34","\x6C\x35","\x64\x69\x73\x70\x6C\x61\x79","\x73\x74\x79\x6C\x65","\x6E\x6F\x6E\x65","\x62\x6C\x6F\x63\x6B","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31","\x23\x36\x36\x63\x63\x36\x36","\x23\x66\x66\x36\x36\x36\x36","\x76\x61\x6C\x75\x65","\x77\x65\x20\x61\x63\x63\x65\x70\x74","\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x43\x6F\x6C\x6F\x72","\x63\x6F\x6C\x6F\x72","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x42\x65\x67\x69\x6E\x2E","\x61\x63\x63\x65\x70\x74","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x32","\x54\x68\x61\x74\x20\x69\x73\x20\x63\x6F\x72\x72\x65\x63\x74\x21","\x49\x6E\x63\x6F\x72\x72\x65\x63\x74\x2E\x20\x50\x6C\x65\x61\x73\x65\x20\x74\x72\x79\x20\x61\x67\x61\x69\x6E\x2E","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x33","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x34","\x35\x30\x25","\x30\x2E\x35","\x2E\x35","\x31\x2F\x32","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x35","\x37\x2C\x31\x31\x2C\x32\x32","\x37\x20\x31\x31\x20\x32\x32","\x37\x2C\x20\x31\x31\x2C\x20\x32\x32","\x37\x2F\x31\x31\x2F\x32\x32","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x36","\x31\x33\x2C\x39","\x31\x33\x20\x39","\x31\x33\x2C\x20\x39","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x37","\x77\x69\x74\x6E\x65\x73\x73","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x38","\x31\x38\x2C\x37","\x31\x38\x2C\x20\x37","\x31\x38\x20\x37","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x39","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x30","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x31","\x2D\x34\x2F\x31\x31","\x2D\x20\x34\x2F\x31\x31","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x32","\x63\x68\x69\x63\x6B\x65\x6E","\x43\x68\x69\x63\x6B\x65\x6E\x2E\x20\x46\x69\x6E\x65\x2C\x20\x70\x72\x6F\x63\x65\x65\x64\x2E","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x33","\x6D\x61\x74\x68\x20\x6C\x6F\x76\x65\x73\x20\x79\x6F\x75","\x4D\x61\x74\x68\x20\x6C\x6F\x76\x65\x73\x20\x79\x6F\x75","\x4D\x61\x74\x68\x20\x6C\x6F\x76\x65\x73\x20\x79\x6F\x75\x2E","\x4D\x61\x74\x68\x20\x6C\x6F\x76\x65\x73\x20\x79\x6F\x75\x21","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x34","\x34\x3A\x30\x33","\x31\x36\x3A\x30\x33","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x35","\x6D\x61\x69\x6C","\x4D\x61\x69\x6C","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x36","\x35\x2C\x32","\x35\x2C\x20\x32","\x35\x20\x32","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x37","\x30\x2E\x30\x30\x30\x34","\x2E\x30\x30\x30\x34","\x30\x2E\x30\x34\x25","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x38","\x24\x32\x36\x35\x2E\x36\x39","\x32\x36\x35\x2E\x36\x39","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x31\x39","\x6F\x75\x63\x68\x21","\x6F\x75\x63\x68","\x4F\x75\x63\x68\x75\x63\x68\x21","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x32\x30","\x31\x30\x30\x31\x30\x31\x30\x30\x31\x30\x30\x30\x31\x31\x31\x30\x30\x31\x31\x30\x2C\x31\x30\x30\x30\x31\x31\x31\x31\x30\x31\x30\x30\x30\x31\x30\x31\x30\x30\x30\x31","\x31\x30\x30\x31\x30\x31\x30\x30\x31\x30\x30\x30\x31\x31\x31\x30\x30\x31\x31\x30\x20\x31\x30\x30\x30\x31\x31\x31\x31\x30\x31\x30\x30\x30\x31\x30\x31\x30\x30\x30\x31","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x32\x31","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x32\x32","\x63\x6F\x6E\x66\x69\x72\x6D\x4D\x65\x73\x73\x61\x67\x65\x32\x33","\x4A\x6F\x73\x65\x70\x68","\x54\x68\x61\x74\x20\x69\x73\x20\x63\x6F\x72\x72\x65\x63\x74\x21\x3C\x62\x72\x3E\x43\x61\x73\x65\x20\x63\x6C\x6F\x73\x65\x64\x2E\x20\x54\x68\x61\x6E\x6B\x20\x79\x6F\x75\x2C\x20\x61\x67\x65\x6E\x74\x20\x74\x65\x61\x6D\x2E\x20\x46\x6F\x72\x20\x73\x65\x63\x75\x72\x69\x74\x79\x20\x70\x75\x72\x70\x6F\x73\x65\x73\x2C\x20\x70\x6C\x65\x61\x73\x65\x20\x72\x65\x6D\x61\x69\x6E\x20\x71\x75\x69\x65\x74\x20\x75\x6E\x74\x69\x6C\x20\x79\x6F\x75\x72\x20\x65\x78\x74\x72\x61\x63\x74\x69\x6F\x6E\x2E","\x6A\x6F\x73\x65\x70\x68"];window[_0x4320[11]](_0x4320[0],function(_0xb3a2x1){if(_0xb3a2x1[_0x4320[1]]== _0x4320[2]|| _0xb3a2x1[_0x4320[1]]== _0x4320[3]|| _0xb3a2x1[_0x4320[4]]== 13){if(_0xb3a2x1[_0x4320[6]][_0x4320[5]]== _0x4320[7]&& _0xb3a2x1[_0x4320[6]][_0x4320[8]]== _0x4320[9]){_0xb3a2x1[_0x4320[10]]();return false}}},true);
+<!-- i dont format because im a cool kid -->
+;document[_0x4320[13]][_0x4320[12]]= function(_0xb3a2x2){if(_0xb3a2x2[_0x4320[4]]== 32){initialize()}};function stealth(){var _0xb3a2x4=document[_0x4320[15]](_0x4320[14]);var _0xb3a2x5=document[_0x4320[15]](_0x4320[16]);var _0xb3a2x6=document[_0x4320[15]](_0x4320[17]);var _0xb3a2x7=document[_0x4320[15]](_0x4320[18]);var _0xb3a2x8=document[_0x4320[15]](_0x4320[19]);var _0xb3a2x9=document[_0x4320[15]](_0x4320[20]);var _0xb3a2xa=document[_0x4320[15]](_0x4320[21]);var _0xb3a2xb=document[_0x4320[15]](_0x4320[22]);var _0xb3a2xc=document[_0x4320[15]](_0x4320[23]);var _0xb3a2xd=document[_0x4320[15]](_0x4320[24]);var _0xb3a2xe=document[_0x4320[15]](_0x4320[25]);var _0xb3a2xf=document[_0x4320[15]](_0x4320[26]);var _0xb3a2x10=document[_0x4320[15]](_0x4320[27]);var _0xb3a2x11=document[_0x4320[15]](_0x4320[28]);var _0xb3a2x12=document[_0x4320[15]](_0x4320[29]);var _0xb3a2x13=document[_0x4320[15]](_0x4320[30]);var _0xb3a2x14=document[_0x4320[15]](_0x4320[31]);var _0xb3a2x15=document[_0x4320[15]](_0x4320[32]);var _0xb3a2x16=document[_0x4320[15]](_0x4320[33]);var _0xb3a2x17=document[_0x4320[15]](_0x4320[34]);var _0xb3a2x18=document[_0x4320[15]](_0x4320[35]);var _0xb3a2x19=document[_0x4320[15]](_0x4320[36]);var _0xb3a2x1a=document[_0x4320[15]](_0x4320[37]);var _0xb3a2x1b=document[_0x4320[15]](_0x4320[38]);var _0xb3a2x1c=document[_0x4320[15]](_0x4320[39]);var _0xb3a2x1d=document[_0x4320[15]](_0x4320[40]);var _0xb3a2x1e=document[_0x4320[15]](_0x4320[41]);var _0xb3a2x1f=document[_0x4320[15]](_0x4320[42]);if(_0xb3a2x1b[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x1b[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x1b[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x1c[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x1c[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x1c[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x1d[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x1d[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x1d[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x1e[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x1e[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x1e[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x1f[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x1f[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x1f[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x4[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x4[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x4[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x5[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x5[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x5[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x6[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x6[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x6[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x7[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x7[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x7[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x8[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x8[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x8[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x9[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x9[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x9[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2xa[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2xa[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2xa[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2xb[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2xb[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2xb[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2xc[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2xc[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2xc[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2xd[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2xd[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2xd[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2xe[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2xe[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2xe[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2xf[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2xf[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2xf[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x10[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x10[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x10[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x11[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x11[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x11[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x12[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x12[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x12[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x13[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x13[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x13[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x14[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x14[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x14[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x15[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x15[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x15[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x16[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x16[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x16[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x17[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x17[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x17[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x18[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x18[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x18[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x19[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x19[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x19[_0x4320[44]][_0x4320[43]]= _0x4320[45]};if(_0xb3a2x1a[_0x4320[44]][_0x4320[43]]=== _0x4320[45]){_0xb3a2x1a[_0x4320[44]][_0x4320[43]]= _0x4320[46]}else {_0xb3a2x1a[_0x4320[44]][_0x4320[43]]= _0x4320[45]}}function initialize(){setTimeout(load1,1000);setTimeout(load2,2000);setTimeout(load3,3000);setTimeout(load4,5000);setTimeout(load5,6000);setTimeout(load6,7500)}function load1(){document[_0x4320[15]](_0x4320[38])[_0x4320[44]][_0x4320[43]]= _0x4320[46]}function load2(){document[_0x4320[15]](_0x4320[39])[_0x4320[44]][_0x4320[43]]= _0x4320[46]}function load3(){document[_0x4320[15]](_0x4320[40])[_0x4320[44]][_0x4320[43]]= _0x4320[46]}function load4(){document[_0x4320[15]](_0x4320[41])[_0x4320[44]][_0x4320[43]]= _0x4320[46]}function load5(){document[_0x4320[15]](_0x4320[42])[_0x4320[44]][_0x4320[43]]= _0x4320[46]}function load6(){document[_0x4320[15]](_0x4320[14])[_0x4320[44]][_0x4320[43]]= _0x4320[46]}function checkPass1(){var _0xb3a2x28=document[_0x4320[15]](_0x4320[47]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer1[_0x4320[50]]== _0x4320[51]){tag2[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer1[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x28[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x28[_0x4320[54]]= _0x4320[55]}else {if(answer1[_0x4320[50]]== _0x4320[56]){tag2[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer1[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x28[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x28[_0x4320[54]]= _0x4320[55]}else {answer1[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a}}}function checkPass2(){var _0xb3a2x2c=document[_0x4320[15]](_0x4320[57]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer2[_0x4320[50]]== 4208){tag3[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer2[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x2c[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x2c[_0x4320[54]]= _0x4320[58]}else {answer2[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x2c[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x2c[_0x4320[54]]= _0x4320[59]}}function checkPass3(){var _0xb3a2x2e=document[_0x4320[15]](_0x4320[60]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer3[_0x4320[50]]== 616){tag4[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer3[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x2e[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x2e[_0x4320[54]]= _0x4320[58]}else {answer3[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x2e[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x2e[_0x4320[54]]= _0x4320[59]}}function checkPass4(){var _0xb3a2x30=document[_0x4320[15]](_0x4320[61]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer4[_0x4320[50]]== _0x4320[62]){tag5[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer4[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x30[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x30[_0x4320[54]]= _0x4320[58]}else {if(answer4[_0x4320[50]]== _0x4320[63]){tag5[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer4[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x30[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x30[_0x4320[54]]= _0x4320[58]}else {if(answer4[_0x4320[50]]== _0x4320[64]){tag5[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer4[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x30[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x30[_0x4320[54]]= _0x4320[58]}else {if(answer4[_0x4320[50]]== _0x4320[65]){tag5[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer4[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x30[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x30[_0x4320[54]]= _0x4320[58]}else {answer4[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x30[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x30[_0x4320[54]]= _0x4320[59]}}}}}function checkPass5(){var _0xb3a2x32=document[_0x4320[15]](_0x4320[66]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer5[_0x4320[50]]== _0x4320[67]){tag6[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer5[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x32[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x32[_0x4320[54]]= _0x4320[58]}else {if(answer5[_0x4320[50]]== _0x4320[68]){tag6[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer5[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x32[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x32[_0x4320[54]]= _0x4320[58]}else {if(answer5[_0x4320[50]]== _0x4320[69]){tag6[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer5[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x32[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x32[_0x4320[54]]= _0x4320[58]}else {if(answer5[_0x4320[50]]== _0x4320[70]){tag6[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer5[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x32[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x32[_0x4320[54]]= _0x4320[58]}else {answer5[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x32[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x32[_0x4320[54]]= _0x4320[59]}}}}}function checkPass6(){var _0xb3a2x34=document[_0x4320[15]](_0x4320[71]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer6[_0x4320[50]]== _0x4320[72]){tag7[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer6[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x34[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x34[_0x4320[54]]= _0x4320[58]}else {if(answer6[_0x4320[50]]== _0x4320[73]){tag7[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer6[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x34[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x34[_0x4320[54]]= _0x4320[58]}else {if(answer6[_0x4320[50]]== _0x4320[74]){tag7[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer6[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x34[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x34[_0x4320[54]]= _0x4320[58]}else {answer6[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x34[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x34[_0x4320[54]]= _0x4320[59]}}}}function checkPass7(){var _0xb3a2x36=document[_0x4320[15]](_0x4320[75]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer7[_0x4320[50]]== _0x4320[76]){tag8[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer7[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x36[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x36[_0x4320[54]]= _0x4320[58]}else {answer7[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x36[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x36[_0x4320[54]]= _0x4320[59]}}function checkPass8(){var _0xb3a2x38=document[_0x4320[15]](_0x4320[77]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer8[_0x4320[50]]== _0x4320[78]){tag9[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer8[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x38[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x38[_0x4320[54]]= _0x4320[58]}else {if(answer8[_0x4320[50]]== _0x4320[79]){tag9[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer8[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x38[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x38[_0x4320[54]]= _0x4320[58]}else {if(answer8[_0x4320[50]]== _0x4320[80]){tag9[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer8[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x38[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x38[_0x4320[54]]= _0x4320[58]}else {answer8[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x38[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x38[_0x4320[54]]= _0x4320[59]}}}}function checkPass9(){var _0xb3a2x3a=document[_0x4320[15]](_0x4320[81]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer9[_0x4320[50]]== 210){tag10[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer9[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x3a[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x3a[_0x4320[54]]= _0x4320[58]}else {answer9[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x3a[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x3a[_0x4320[54]]= _0x4320[59]}}function checkPass10(){var _0xb3a2x3c=document[_0x4320[15]](_0x4320[82]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer10[_0x4320[50]]== 50){tag11[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer10[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x3c[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x3c[_0x4320[54]]= _0x4320[58]}else {answer10[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x3c[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x3c[_0x4320[54]]= _0x4320[59]}}function checkPass11(){var _0xb3a2x3e=document[_0x4320[15]](_0x4320[83]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer11[_0x4320[50]]== _0x4320[84]){tag12[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer11[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x3e[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x3e[_0x4320[54]]= _0x4320[58]}else {if(answer11[_0x4320[50]]== _0x4320[85]){tag12[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer11[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x3e[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x3e[_0x4320[54]]= _0x4320[58]}else {answer11[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x3e[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x3e[_0x4320[54]]= _0x4320[59]}}}function checkPass12(){var _0xb3a2x40=document[_0x4320[15]](_0x4320[86]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer12[_0x4320[50]]== 56){tag13[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer12[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x40[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x40[_0x4320[54]]= _0x4320[58]}else {if(answer12[_0x4320[50]]== _0x4320[87]){tag13[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer12[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x40[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x40[_0x4320[54]]= _0x4320[88]}else {answer12[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x40[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x40[_0x4320[54]]= _0x4320[59]}}}function checkPass13(){var _0xb3a2x42=document[_0x4320[15]](_0x4320[89]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer13[_0x4320[50]]== _0x4320[90]){tag14[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer13[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x42[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x42[_0x4320[54]]= _0x4320[58]}else {if(answer13[_0x4320[50]]== _0x4320[90]){tag14[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer13[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x42[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x42[_0x4320[54]]= _0x4320[58]}else {if(answer13[_0x4320[50]]== _0x4320[91]){tag14[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer13[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x42[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x42[_0x4320[54]]= _0x4320[58]}else {if(answer13[_0x4320[50]]== _0x4320[92]){tag14[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer13[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x42[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x42[_0x4320[54]]= _0x4320[58]}else {if(answer13[_0x4320[50]]== _0x4320[93]){tag14[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer13[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x42[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x42[_0x4320[54]]= _0x4320[58]}else {answer13[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x42[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x42[_0x4320[54]]= _0x4320[59]}}}}}}function checkPass14(){var _0xb3a2x44=document[_0x4320[15]](_0x4320[94]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer14[_0x4320[50]]== _0x4320[95]){tag15[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer14[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x44[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x44[_0x4320[54]]= _0x4320[58]}else {if(answer14[_0x4320[50]]== _0x4320[96]){tag15[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer14[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x44[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x44[_0x4320[54]]= _0x4320[58]}else {answer14[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x44[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x44[_0x4320[54]]= _0x4320[59]}}}function checkPass15(){var _0xb3a2x46=document[_0x4320[15]](_0x4320[97]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer15[_0x4320[50]]== _0x4320[98]){tag16[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer15[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x46[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x46[_0x4320[54]]= _0x4320[58]}else {if(answer15[_0x4320[50]]== _0x4320[99]){tag16[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer15[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x46[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x46[_0x4320[54]]= _0x4320[58]}else {answer15[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x46[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x46[_0x4320[54]]= _0x4320[59]}}}function checkPass16(){var _0xb3a2x48=document[_0x4320[15]](_0x4320[100]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer16[_0x4320[50]]== _0x4320[101]){tag17[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer16[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x48[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x48[_0x4320[54]]= _0x4320[58]}else {if(answer16[_0x4320[50]]== _0x4320[102]){tag17[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer16[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x48[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x48[_0x4320[54]]= _0x4320[58]}else {if(answer16[_0x4320[50]]== _0x4320[103]){tag17[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer16[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x48[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x48[_0x4320[54]]= _0x4320[58]}else {answer16[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x48[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x48[_0x4320[54]]= _0x4320[59]}}}}function checkPass17(){var _0xb3a2x4a=document[_0x4320[15]](_0x4320[104]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer17[_0x4320[50]]== _0x4320[105]){tag18[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer17[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4a[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4a[_0x4320[54]]= _0x4320[58]}else {if(answer17[_0x4320[50]]== _0x4320[106]){tag18[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer17[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4a[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4a[_0x4320[54]]= _0x4320[58]}else {if(answer17[_0x4320[50]]== _0x4320[107]){tag18[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer17[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4a[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4a[_0x4320[54]]= _0x4320[58]}else {answer17[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x4a[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x4a[_0x4320[54]]= _0x4320[59]}}}}function checkPass18(){var _0xb3a2x4c=document[_0x4320[15]](_0x4320[108]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer18[_0x4320[50]]== _0x4320[109]){tag19[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer18[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4c[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4c[_0x4320[54]]= _0x4320[58]}else {if(answer18[_0x4320[50]]== _0x4320[110]){tag19[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer18[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4c[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4c[_0x4320[54]]= _0x4320[58]}else {answer18[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x4c[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x4c[_0x4320[54]]= _0x4320[59]}}}function checkPass19(){var _0xb3a2x4e=document[_0x4320[15]](_0x4320[111]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer19[_0x4320[50]]== _0x4320[112]){tag20[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer19[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4e[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4e[_0x4320[54]]= _0x4320[58]}else {if(answer19[_0x4320[50]]== _0x4320[113]){tag20[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer19[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4e[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4e[_0x4320[54]]= _0x4320[58]}else {if(answer19[_0x4320[50]]== _0x4320[114]){tag20[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer19[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x4e[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x4e[_0x4320[54]]= _0x4320[58]}else {answer19[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x4e[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x4e[_0x4320[54]]= _0x4320[59]}}}}function checkPass20(){var _0xb3a2x50=document[_0x4320[15]](_0x4320[115]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer20[_0x4320[50]]== _0x4320[116]){tag21[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer20[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x50[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x50[_0x4320[54]]= _0x4320[58]}else {if(answer20[_0x4320[50]]== _0x4320[117]){tag21[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer20[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x50[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x50[_0x4320[54]]= _0x4320[58]}else {answer20[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x50[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x50[_0x4320[54]]= _0x4320[59]}}}function checkPass21(){var _0xb3a2x52=document[_0x4320[15]](_0x4320[118]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];var _0xb3a2x53=297999;var _0xb3a2x54=498001;if((answer21[_0x4320[50]]- _0xb3a2x53)* (answer21[_0x4320[50]]- _0xb3a2x54)< 0){tag22[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer21[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x52[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x52[_0x4320[54]]= _0x4320[58]}else {answer21[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x52[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x52[_0x4320[54]]= _0x4320[59]}}function checkPass22(){var _0xb3a2x56=document[_0x4320[15]](_0x4320[119]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer22[_0x4320[50]]== 101110){tag23[_0x4320[44]][_0x4320[43]]= _0x4320[46];answer22[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x56[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x56[_0x4320[54]]= _0x4320[58]}else {answer22[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x56[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x56[_0x4320[54]]= _0x4320[59]}}function checkPass23(){var _0xb3a2x58=document[_0x4320[15]](_0x4320[120]);var _0xb3a2x29=_0x4320[48];var _0xb3a2x2a=_0x4320[49];if(answer23[_0x4320[50]]== _0x4320[121]){answer23[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x58[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x58[_0x4320[54]]= _0x4320[122]}else {if(answer23[_0x4320[50]]== _0x4320[123]){answer23[_0x4320[44]][_0x4320[52]]= _0xb3a2x29;_0xb3a2x58[_0x4320[44]][_0x4320[53]]= _0xb3a2x29;_0xb3a2x58[_0x4320[54]]= _0x4320[122]}else {answer23[_0x4320[44]][_0x4320[52]]= _0xb3a2x2a;_0xb3a2x58[_0x4320[44]][_0x4320[53]]= _0xb3a2x2a;_0xb3a2x58[_0x4320[54]]= _0x4320[59]}}}
+
+</script>
+
+
+</body>
+</html>
